@@ -15,12 +15,12 @@ function App() {
   let random = [
     {
       id: 1,
-      description: 'Di si por favor',
+      description: 'Di si por favor Amorcito :3',
       img: 'https://i.pinimg.com/originals/db/aa/c1/dbaac13f6278b91a15e480752b8a7242.gif',
     },
     {
       id: 1,
-      description: 'Piénsalo de nuevo.',
+      description: 'Piénsalo de nuevo. e.e',
       img: 'https://i.pinimg.com/originals/77/6b/21/776b215bed3deeef47fd3aa657685a18.gif',
     },
     {
@@ -35,7 +35,7 @@ function App() {
     },
     {
       id: 4,
-      description: 'Confía en mí, será divertido.',
+      description: 'Confía en mí, será divertido, la pasaremos bonito.',
       img: 'https://media.tenor.com/Bn88VELdNI8AAAAi/peach-goma.gif',
     },
     {
@@ -75,7 +75,7 @@ function App() {
     },
     {
       id: 12,
-      description: 'Dale, no seas mala',
+      description: 'Dale, no seas malita amorcito :c',
       img: 'https://media.tenor.com/Az64YfoL7JcAAAAj/rawr.gif',
     },
   ];
@@ -159,6 +159,7 @@ function App() {
         <div className="flex justify-center items-center flex-col space-y-10">
           <h1 className="text-4xl font-bold">
             Sabia que dirias que si ❤️ mi Cielito hermosa!
+            Tienes una cita conmigo el 14 de febrero 2026 a las 8 a.m.
           </h1>
           <img
             src="https://i.pinimg.com/originals/9b/dc/c6/9bdcc6206c1d36a37149d31108c6bb41.gif"
