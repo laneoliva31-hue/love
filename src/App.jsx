@@ -104,7 +104,7 @@ function App() {
       {!valueSi ? (
         <div className="p-5">
           <h1 className="font-bold text-5xl text-center">
-            ¿Quieres ser mi San Valentin?
+            ¿Quieres ser mi San Valentin? No acepto un no como respuesta
           </h1>
           <img
             src={
